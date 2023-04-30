@@ -34,5 +34,5 @@ int main() {
 }
 
 int half(int num) {
-	return(num / 2 + (num % 2));
+	return((num / 2) + (num % 2));
 }
